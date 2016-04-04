@@ -1,0 +1,12 @@
+dependencies/
+
+#Intellij
+.idea/
+*.iml
+*.iws
+
+# Gradle
+.gradle/
+
+# Vagrant
+.vagrant/
